@@ -1,4 +1,4 @@
-# Excel-Dashboard---KPI-Purchase-Dpt.
+# Excel-Dashboard-KPI.
 Dashboard made over an elaborate excel spreadsheet that tracks Key Performance Indicators (KPI) of an automotive company
 
 Parameters like,
